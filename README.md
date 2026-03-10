@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishchay Goel
 - 👀 I’m interested in Full stack Web Designing and DSA.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m proficient in MERN stack development.
 - 💞️ I’m looking for collaborations.
 - 📫 can reach me at nishchaygoel6@gmail.com
 
